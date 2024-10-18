@@ -1,0 +1,10 @@
+---
+title: "Paper and Replication Package Website"
+---
+
+This is the HOMEPAGE of a website which showcases a paper and elements of an associated replication package.
+
+::: callout-tip
+To render website use the CLI command in Terminal:
+`quarto render`
+:::

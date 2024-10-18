@@ -1,0 +1,9 @@
+---
+title: "Data"
+---
+
+See Replication Package README for more details
+
+::: callout-tip
+Consider adding a YAML listing with details of each data file.
+:::
